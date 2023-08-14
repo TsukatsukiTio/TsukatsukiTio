@@ -1,8 +1,8 @@
-<h2 align="center">Hi 👋! My name is Septio Nugroho</h2>
+<h1 align="center">Hi 👋! My name is Septio Nugroho</h2>
+<h3 align="center">A computer science student at Universitas Indonesia!</h3>
 
 ###
-
-<img align="right" height="150" src="https://1.bp.blogspot.com/-yDPhEG06pGs/Wo9XNYQd4ZI/AAAAAAABGXQ/wNPxnO-DkjQXLxxXbnPPT6THqwc8tf0ygCKgBGAs/s1600/Omake%2BGif%2BAnime%2B-%2BViolet%2BEvergarden%2B-%2BEpisode%2B7%2B-%2BViolet%2527s%2BHand.gif"  />
+<img align="right" height="150" src="https://1.bp.blogspot.com/-yDPhEG06pGs/Wo9XNYQd4ZI/AAAAAAABGXQ/wNPxnO-DkjQXLxxXbnPPT6THqwc8tf0ygCKgBGAs/s1600/Omake%2BGif%2BAnime%2B-%2BViolet%2BEvergarden%2B-%2BEpisode%2B7%2B-%2BViolet%2527s%2BHand.gif" alt="Violet Evergarden" />
 
 ###
 
