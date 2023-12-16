@@ -12,9 +12,9 @@
 ###
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=violet-e&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="180" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=violet-e&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=TsukatsukiTio&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="180" alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TsukatsukiTio&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
-![LeetCode Stats](https://leetcard.jacoblin.cool/violet-e)
+![LeetCode Stats](https://leetcard.jacoblin.cool/TsukatsukiTio)
